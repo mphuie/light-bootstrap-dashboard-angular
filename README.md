@@ -1,11 +1,3 @@
-# webpack-angular-base
-Basic (opinionated?) Angular webpack app layout (Coffeescript/Jade)
+# light-bootstrap-dashboard-angular
 
-- Partials and controllers are loaded inline (commonjs) and bundled into single JS
-- ExpressJS is integrated with webpack-dev-server.
-
-
-##Usage
-
-    npm install
-    npm start
+Angular version of the [light-bootstrap-dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard) theme
